@@ -10,3 +10,6 @@ x, y = y, x
 print("Après permutation:")
 print("x :", x)
 print("y :", y)
+print("y :", y)
+
+
